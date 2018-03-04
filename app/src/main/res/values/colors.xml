@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CC3433</color>
+    <color name="colorPrimaryDark">#CC3433</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="bg_main">#CC3433</color>
+    <color name="input_register_hint">#5e6266</color>
+</resources>
